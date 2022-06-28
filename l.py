@@ -1,1 +1,1 @@
-pring ("Hellooooo bhaii loggg")
+pkg install python
