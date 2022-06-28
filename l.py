@@ -1,1 +1,1 @@
-pring "Hellooooo bhaii loggg"
+pring ("Hellooooo bhaii loggg")
