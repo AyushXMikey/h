@@ -1,1 +1,1 @@
-pkg install python
+print("Helloooo bhai logg")
